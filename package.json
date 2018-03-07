@@ -1,0 +1,23 @@
+{
+  "name": "theGreatMouseDetective",
+  "version": "1.0.0",
+  "description": "",
+  "main": "textUtilities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eevaksu/theGreatMouseDetective.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eevaksu/theGreatMouseDetective/issues"
+  },
+  "homepage": "https://github.com/eevaksu/theGreatMouseDetective#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
