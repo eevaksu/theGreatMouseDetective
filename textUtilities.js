@@ -1,7 +1,6 @@
 var expect = require('chai').expect;
 expect(true).to.be.true;
 function titleCase (title) {
-  var words = title.split('');
   var titleCasedWords = words.map (function (word){
      return title[0].toUpperCase() + title.substring(1);
   });
